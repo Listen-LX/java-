@@ -1,0 +1,11 @@
+
+spring:
+  thymeleaf:
+    mode: HEML
+  profiles:
+    active: dev
+
+comment.avatar: /static/images/avatar.jpg
+
+
+
